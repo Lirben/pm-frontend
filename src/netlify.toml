@@ -34,8 +34,8 @@
   force = true
 
 [[redirects]]
-  from = "/IQ-test"
-  to = "/iq-test"
+  from = "/iq-test"
+  to = "/IQ-test"
   status = 301
   force = true
 

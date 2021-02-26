@@ -1,0 +1,27 @@
+{
+	"short_name": "Praktijk Mobiel",
+	"name": "Frontend Praktijk Mobiel website",
+	"description": "Frontend Praktijk Mobiel website",
+	"categories": ["website"],
+	"lang": "nl-BE",
+	"dir": "ltr",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "16x16",
+			"type": "image/ico",
+			"purpose": "any maskable"
+		}
+	],
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#FFFFFF",
+	"theme_color": "#3F83F8",
+	"screenshots": [
+		{
+			"src": "screenshot-1.png",
+			"sizes": "1280x720",
+			"type": "image/png"
+		}
+	]
+}

@@ -22,7 +22,7 @@
 				title="Vanaf welke leeftijd mag je kind alleen laten?" 
 				date="15 april 2019"
 				author="Liesbeth Desmet"
-				blogURL="/Blog/Kind-Alleen-Laten"
+				blogURL="/blog/kind-alleen-laten"
 				imageSrc="../images/blog-praktijk-mobiel-in-het-nieuws.jpg" 
 				imageAlt="Liesbeth Desmet, Praktijk Mobiel, in het nieuws!"
 				introText="Kinderpyschologe Liesbeth Desmet van Praktijk Mobiel geeft duiding bij het nieuws op TV oost. Een lokale nieuwszender die zich richt op Oost-Vlaanderen met name regio Aalst, Dendermonde, Geraardsbergen, Lokeren, Ninove, Sint-Niklaas en Zottegem."/>
@@ -31,8 +31,8 @@
 				title="IQ test, wat is dat?" 
 				date="18 februari 2018"
 				author="Liesbeth Desmet"
-				blogURL="/Blog/IQ-test"
-				imageSrc="../images/IQ-test.jpg" 
+				blogURL="/blog/iq-test"
+				imageSrc="../images/iq-test.jpg" 
 				imageAlt="IQ test gent"
 				introText="Een IQ test peilt naar het <strong>I</strong>ntelligentie <strong>Q</strong>uotient (of IQ) van de persoon die de test ondergaat. Dat weet zowat iedereen. Maar waaruit bestaat zo'n test en waarom zou uw kind er ééntje moeten afnemen? Wij geven u graag extra tekst en uitleg."/>
 
@@ -40,7 +40,7 @@
 				title="Eetproblemen op kamp" 
 				date="29 juni 2017"
 				author="Liesbeth Desmet"
-				blogURL="/Blog/Eetproblemen-op-kamp"
+				blogURL="/blog/eetproblemen-op-kamp"
 				imageSrc="../images/blog-kamp.jpg" 
 				imageAlt="eetproblemen op kamp"
 				introText="Binnenkort vertrekken je kinderen misschien op kamp? Zijn je oogappels sowieso moeilijke eters? Hoe zal dit dan verlopen op kamp?<br />Charlotte van Dubbelpunt, het maandblad van de Chiroleiding, interviewde één van onze kinderpsychologen over omgaan met eetproblemen op kamp!"/>
@@ -49,7 +49,7 @@
 				title="Infographic - Hoe straf ik een kind?" 
 				date="15 januari 2017"
 				author="Liesbeth Desmet"
-				blogURL="/Blog/kind-straffen"
+				blogURL="/blog/kind-straffen"
 				imageSrc="../images/blog-straffen.jpg" 
 				imageAlt="kind straffen"
 				introText="Enkele weken terug stelde CD&V voor om de pedagogische tik strafbaar te maken. Iets wat in andere landen al enkele jaren gangbaar is. Wij merken dat vele ouders hun kinderen willen opvoeden zonder tik maar niet altijd weten hoe dit moet. Daarom knutselden wij deze infographic in elkaar met een duidelijk 4-stappen plan hoe je uw kinderen kunt straffen zonder hen hiervoor per se een tik uit te delen of zelfs nog maar uw stem te verheffen!"/>

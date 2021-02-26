@@ -55,17 +55,17 @@
 
                 <p class="py-2">Onze kinderpsychologen geven ondersteuning bij volgende uitdagingen: </p>
                 <p class="inline-block space-x-2">
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#intelligentieonderzoek">IQ test</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Selectief-mutisme">Selectief mutisme</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#eetproblemen">Eetproblemen</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#driftbuien">Driftbuien</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#scheiding">Scheiding</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#rouw">Rouw</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#opvoeding">Opvoeding</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#zindelijkheid">Zindelijkheid</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#slaapproblemen">Slaapproblemen</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#woedeaanvallen">Woedeaanvallen</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Doelgroep/0-6#angsten">Angsten</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#intelligentieonderzoek">IQ test</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../selectief-mutisme">Selectief mutisme</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#eetproblemen">Eetproblemen</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#driftbuien">Driftbuien</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#scheiding">Scheiding</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#rouw">Rouw</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#opvoeding">Opvoeding</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#zindelijkheid">Zindelijkheid</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#slaapproblemen">Slaapproblemen</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#woedeaanvallen">Woedeaanvallen</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../doelgroep/0-6#angsten">Angsten</a>
                 </p>
                 
 
@@ -79,8 +79,8 @@
                     Lees ook volgende blogposts!
                 </p>
                 <p class="inline-block">
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Blog/IQ-test">Wat is een IQ-test?</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../IQ-test">Intelligentietest</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../blog/IQ-test">Wat is een IQ-test?</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../iq-test">Intelligentietest</a>
                 </p>
 
                 
@@ -95,7 +95,7 @@
                     Lees ook volgende blogposts!
                 </p>
                 <p class="inline-block">
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Blog/Eetproblemen-op-kamp">Eetproblemen op kamp</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../blog/eetproblemen-op-kamp">Eetproblemen op kamp</a>
                 </p>
                 
 
@@ -137,7 +137,7 @@
                     Lees ook volgende blogposts!
                 </p>
                 <p class="inline-block">
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Blog/kind-straffen">Hoe straf ik een kind?</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../blog/kind-straffen">Hoe straf ik een kind?</a>
                 </p>
                 
 

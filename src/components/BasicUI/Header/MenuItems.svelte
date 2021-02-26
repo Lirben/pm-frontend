@@ -28,7 +28,7 @@
         </a>
     </li>
     <li class="block text-2xl font-bold mt-4 lg:inline-block lg:mt-0 mr-10">
-        <a rel=prefetch href="/Blog" on:click={changePage} class="text-grey visited:text-grey hover:no-underline hover:text-grey-dark">
+        <a rel=prefetch href="/blog" on:click={changePage} class="text-grey visited:text-grey hover:no-underline hover:text-grey-dark">
             Blog
         </a>
     </li>

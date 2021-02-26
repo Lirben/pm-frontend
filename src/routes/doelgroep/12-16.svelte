@@ -75,8 +75,8 @@
                     Lees ook volgende blogposts!
                 </p>
                 <p class="inline-block">
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../Blog/IQ-test">Wat is een IQ-test?</a>
-                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../IQ-test">Intelligentietest</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../blog/iq-test">Wat is een IQ-test?</a>
+                    <span class="text-yellow">&#x2022;</span><a class="text-blue" href="../iq-test">Intelligentietest</a>
                 </p>
 
                 
